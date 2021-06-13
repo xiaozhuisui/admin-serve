@@ -1,13 +1,10 @@
 /*
- * @Author: your name
+ * @Author: 郑圳宏
  * @Date: 2021-05-26 17:56:56
- * @LastEditTime: 2021-06-13 23:01:26
+ * @LastEditTime: 2021-06-13 23:10:51
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /vue-admin/admin-server/utils/log4j.js
- */
-/**
- * @author 郑圳宏
  */
 const log4js = require('log4js')
 const levels = {
